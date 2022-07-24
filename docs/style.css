@@ -1,0 +1,51 @@
+body {
+  background-color: #26262c;
+  font-family: "Courier", monospace;
+  margin:0;
+}
+
+footer{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
+  color: #696969;
+  text-align: center;
+  font-size: 12px;
+}
+
+footer a {
+  color: #696969;
+}
+
+footer a:hover {
+  color: #ffde00;
+}
+
+.center {
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.wrapper {
+  position: absolute;
+  height: 400px;
+  width: 400px;
+}
+
+.image {
+  cursor: pointer;
+  position: absolute;
+}
+
+.link {
+  color: white;
+  position: absolute;
+  top: 70%;
+}
+
+.link:hover {
+  color: #ffde00;
+}

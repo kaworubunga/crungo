@@ -1,0 +1,30 @@
+{
+  "name": "crungo",
+  "version": "1.0.0",
+  "description": "random crungo",
+  "private": true,
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaworubunga/crungo.git"
+  },
+  "keywords": [
+    "crungo"
+  ],
+  "author": "Surfs Up",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaworubunga/crungo/issues"
+  },
+  "homepage": "https://crungo.com",
+  "dependencies": {
+    "canvas-confetti": "^1.5.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.6.2",
+    "webpack": "^5.71.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
