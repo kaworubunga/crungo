@@ -80,11 +80,6 @@ const bttvCrungos = [
     link: "https://betterttv.net/emotes/60ba439cf8b3f62601c38733",
   },
   {
-    name: "Crungowski",
-    url: "https://cdn.betterttv.net/emote/621112cd06fd6a9f5be4fd7a/3x",
-    link: "https://betterttv.net/emotes/621112cd06fd6a9f5be4fd7a",
-  },
-  {
     name: "crungoRiot",
     url: "https://cdn.betterttv.net/emote/628452983c6f14b6884818e9/3x",
     link: "https://betterttv.com/emotes/628452983c6f14b6884818e9",
@@ -108,6 +103,46 @@ const bttvCrungos = [
     name: "Crungoth",
     url: "https://cdn.betterttv.net/emote/629f9488aea70bba060735ba/3x",
     link: "https://betterttv.com/emotes/629f9488aea70bba060735ba",
+  },
+  {
+    name: "Crungoose",
+    url: "https://cdn.betterttv.net/emote/62d6cafbd991a3e26c12d2bb/3x",
+    link: "https://betterttv.com/emotes/62d6cafbd991a3e26c12d2bb",
+  },
+  {
+    name: "crungoSnug",
+    url: "https://cdn.betterttv.net/emote/630e5dba8d54637377067fd1/3x",
+    link: "https://betterttv.com/emotes/630e5dba8d54637377067fd1",
+  },
+  {
+    name: "crungoCult",
+    url: "https://cdn.betterttv.net/emote/630e5def8d54637377067fd6/3x",
+    link: "https://betterttv.com/emotes/630e5def8d54637377067fd6",
+  },
+  {
+    name: "crungoRun",
+    url: "https://cdn.betterttv.net/emote/62f968b7ecbd41815424122a/3x",
+    link: "https://betterttv.com/emotes/62f968b7ecbd41815424122a",
+  },
+  {
+    name: "Crungolantern",
+    url: "https://cdn.betterttv.net/emote/6341f932e6cf26500b42e4ce/3x",
+    link: "https://betterttv.com/emotes/6341f932e6cf26500b42e4ce",
+  },
+  {
+    name: "Crungorilla",
+    url: "https://cdn.betterttv.net/emote/6341f8b5e6cf26500b42e4bc/3x",
+    link: "https://betterttv.com/emotes/6341f8b5e6cf26500b42e4bc",
+  },
+  {
+    name: "crungoArrive",
+    url: "https://cdn.betterttv.net/emote/6324997c8d54637377076fa3/3x",
+    link: "https://betterttv.com/emotes/6324997c8d54637377076fa3",
+  },
+  {
+    name: "crungoLeave",
+    url: "https://cdn.betterttv.net/emote/632499418d54637377076f9e/3x",
+    link: "https://betterttv.com/emotes/632499418d54637377076f9e",
   },
 ];
 
@@ -211,6 +246,96 @@ const seventvCrungos = [
     name: "CrungoTrans",
     url: "https://cdn.7tv.app/emote/629fb482aeb995803515f016/4x",
     link: "https://7tv.app/emotes/629fb482aeb995803515f016",
+  },
+  {
+    name: "CrungoSmileCool",
+    url: "https://cdn.7tv.app/emote/62aca303961896a72c6f0086/4x",
+    link: "https://7tv.app/emotes/62aca303961896a72c6f0086",
+  },
+  {
+    name: "CrungoSmileCowboy",
+    url: "https://cdn.7tv.app/emote/62e1e7c06006cb885b15eff8/4x",
+    link: "https://7tv.app/emotes/62e1e7c06006cb885b15eff8",
+  },
+  {
+    name: "waveCrungoSmile",
+    url: "https://cdn.7tv.app/emote/62f8400cc6d0162b492a015c/4x",
+    link: "https://7tv.app/emotes/62f8400cc6d0162b492a015c",
+  },
+  {
+    name: "didsomeonesaycrungosmile",
+    url: "https://cdn.7tv.app/emote/62e414c29d45e362537cafac/4x",
+    link: "https://7tv.app/emotes/62e414c29d45e362537cafac",
+  },
+  {
+    name: "Tungo",
+    url: "https://cdn.7tv.app/emote/62c1d5844c5bd11b08aaeea9/4x",
+    link: "https://7tv.app/emotes/62c1d5844c5bd11b08aaeea9",
+  },
+  {
+    name: "CrungoSmileStare",
+    url: "https://cdn.7tv.app/emote/62dec7e4ed29bbc02f705bbd/4x",
+    link: "https://7tv.app/emotes/62dec7e4ed29bbc02f705bbd",
+  },
+  {
+    name: "CrungoJAM",
+    url: "https://cdn.7tv.app/emote/62f2c0c3c19a3571fe06d9de/4x",
+    link: "https://7tv.app/emotes/62f2c0c3c19a3571fe06d9de",
+  },
+  {
+    name: "CrungoSmileCozy",
+    url: "https://cdn.7tv.app/emote/6303a577036b8505a1c52cd4/4x",
+    link: "https://7tv.app/emotes/6303a577036b8505a1c52cd4",
+  },
+  {
+    name: "CrungoSad",
+    url: "https://cdn.7tv.app/emote/620939ada0c2002f17a1c76e/4x",
+    link: "https://7tv.app/emotes/620939ada0c2002f17a1c76e",
+  },
+  {
+    name: "CrungoSmileTear",
+    url: "https://cdn.7tv.app/emote/62dec8f90f665216627f2917/4x",
+    link: "https://7tv.app/emotes/62dec8f90f665216627f2917",
+  },
+  {
+    name: "CrungoSmilePooof",
+    url: "https://cdn.7tv.app/emote/62df022a0084409adfca5813/4x",
+    link: "https://7tv.app/emotes/62df022a0084409adfca5813",
+  },
+  {
+    name: "KrungoSmile",
+    url: "https://cdn.7tv.app/emote/628258cb503a343700eb4a0c/4x",
+    link: "https://7tv.app/emotes/628258cb503a343700eb4a0c",
+  },
+  {
+    name: "CrungoSmileLoading",
+    url: "https://cdn.7tv.app/emote/62ec208bd2e11183867d8d2e/4x",
+    link: "https://7tv.app/emotes/62ec208bd2e11183867d8d2e",
+  },
+  {
+    name: "crungocheese",
+    url: "https://cdn.7tv.app/emote/62f54c89d9ad86e98ed86b79/4x",
+    link: "https://7tv.app/emotes/62f54c89d9ad86e98ed86b79",
+  },
+  {
+    name: "crungoBrows",
+    url: "https://cdn.7tv.app/emote/63055f02d9bf10a26e1a342e/4x",
+    link: "https://7tv.app/emotes/63055f02d9bf10a26e1a342e",
+  },
+  {
+    name: "crungoGamba",
+    url: "https://cdn.7tv.app/emote/630a34bbcc3590037679bfe4/4x",
+    link: "https://7tv.app/emotes/630a34bbcc3590037679bfe4",
+  },
+  {
+    name: "CrungoSmileSnek",
+    url: "https://cdn.7tv.app/emote/62e1f17a8fc78351b6033f98/4x",
+    link: "https://7tv.app/emotes/62e1f17a8fc78351b6033f98",
+  },
+  {
+    name: "TungoBlink",
+    url: "https://cdn.7tv.app/emote/632399eddb16ee5bf5b3a5f0/4x",
+    link: "https://7tv.app/emotes/632399eddb16ee5bf5b3a5f0",
   },
 ];
 
